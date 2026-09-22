@@ -12,16 +12,7 @@
 
 ---
 
-### 🚀 What I'm currently doing
-
-- 🔭 Currently working on: **[Nama Project Kamu]**
-- 🌱 Currently learning: **Kotlin & Android Security**
-- 🎯 2026 goal: dive deeper into **cryptography & applied security**
-- 📫 Reach me: **[email/instagram/linkedin kamu]**
-
----
-
-### 📌 Project Status
+### Project Status
 
 | Project | Description | Progress | Status |
 |---|---|---|---|
@@ -31,7 +22,7 @@
 
 ---
 
-### 💻 Tech Stack & Skills
+### Tech Stack & Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=kotlin,java,python,cpp,androidstudio,git&theme=dark" />
