@@ -1,10 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Arsa%20Salsabila&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Informatics%20Engineering%20Student%20@%20ITERA&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=200&section=header&text=Arsa%20Salsabila&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Informatics%20Student%20@%20ITERA&descAlignY=55&descSize=18" />
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A970FF&center=true&vCenter=true&width=600&lines=Mobile+App+Developer;Cybersecurity+Enthusiast;Cryptography+Learner;ITERA+Informatics+Student" alt="Typing SVG" />
 </p>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=arsasalsaaa.arsasalsaaa" alt="Profile Views" />
+</p>
+I am an Informatics Engineering student at Institut Teknologi Sumatera (ITERA) with a strong passion for mobile app development, cybersecurity, and cryptography.
 
 ---
 
