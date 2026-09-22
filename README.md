@@ -8,7 +8,7 @@
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=arsasalsaaa.arsasalsaaa" alt="Profile Views" />
 </p>
-I am an Informatics Engineering student at Institut Teknologi Sumatera (ITERA) with a strong passion for mobile app development, cybersecurity, and cryptography.
+I am an Informatics student at Institut Teknologi Sumatera (ITERA) with a strong passion for mobile app development, cybersecurity, and cryptography.
 
 ---
 
