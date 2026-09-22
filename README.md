@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=200&section=header&text=Arsa%20Salsabila&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Informatics%20Student%20@%20ITERA&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:03045e,50:0077b6,100:90e0ef&height=200&section=header&text=Arsa%20Salsabila&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Informatics%20Engineering%20Student%20@%20ITERA&descAlignY=55&descSize=18" />
 </p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A970FF&center=true&vCenter=true&width=600&lines=Mobile+App+Developer;Cybersecurity+Enthusiast;Cryptography+Learner;ITERA+Informatics+Student" alt="Typing SVG" />
 </p>
@@ -11,7 +12,7 @@ I am an Informatics Engineering student at Institut Teknologi Sumatera (ITERA) w
 
 ---
 
-### Project Status
+### 🚀 Project Status
 
 | Description | Progress | Status |
 |---|---|---|
@@ -21,7 +22,7 @@ I am an Informatics Engineering student at Institut Teknologi Sumatera (ITERA) w
 
 ---
 
-### Tech Stack & Skills
+### 💻 Tech Stack & Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=kotlin,java,python,cpp,androidstudio,git&theme=dark" />
@@ -63,5 +64,5 @@ I am an Informatics Engineering student at Institut Teknologi Sumatera (ITERA) w
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:03045e,50:0077b6,100:90e0ef&height=100&section=footer" />
 </p>
