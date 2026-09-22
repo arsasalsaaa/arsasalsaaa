@@ -55,7 +55,7 @@ I am an Informatics student at Institut Teknologi Sumatera (ITERA) with a strong
 ### 🌐 Connect with me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/arsa-salsabila-886b70323 target="_blank">
+  <a href="https://linkedin.com/in/arsa-salsabila-886b70323 target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:..." target="_blank">
