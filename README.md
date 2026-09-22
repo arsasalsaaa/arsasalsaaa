@@ -14,7 +14,7 @@ I am an Informatics Engineering student at **Institut Teknologi Sumatera (ITERA)
 
 ---
 
-### 💻 Tech Stack & Skills
+### Tech Stack & Skills
 
 **Languages:**
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
@@ -36,6 +36,3 @@ I am an Informatics Engineering student at **Institut Teknologi Sumatera (ITERA)
 ![Streak](https://streak-stats.demolab.com/?user=arsasalsaaa&theme=radical)
 
 ---
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
