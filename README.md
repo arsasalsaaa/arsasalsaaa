@@ -14,11 +14,11 @@
 
 ### Project Status
 
-| Project | Description | Progress | Status |
-|---|---|---|---|
-| [Nama Project 1] | Aplikasi mobile ... | 70% | 🟢 In Progress |
-| [Nama Project 2] | Riset kriptografi ... | 30% | 🟡 Paused |
-| [Nama Project 3] | Tools cybersecurity ... | 100% | ✅ Done |
+| Description | Progress | Status |
+|---|---|---|
+| Aplikasi mobile ... | 20% | 🟢 In Progress |
+| Riset kriptografi ... | 30% | 🟡 Paused |
+| Tools cybersecurity (CySim) | 100% | ✅ Done |
 
 ---
 
@@ -65,13 +65,10 @@
 ### 🌐 Connect with me
 
 <p align="center">
-  <a href="https://linkedin.com/in/GANTI_LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/arsa-salsabila-886b70323 target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/GANTI_INSTAGRAM" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:GANTI_EMAIL" target="_blank">
+  <a href="mailto:..." target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
