@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghprofile/?username=arsasalsaaa&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=arsasalsaaa.arsasalsaaa) 
 </p>
 
 ---
@@ -57,8 +57,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/arsasalsaaa/arsasalsaaa/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
-
-> ⚠️ Snake animation ini butuh setup GitHub Action sekali (lihat instruksi di chat), baru muncul aktif.
 
 ---
 
