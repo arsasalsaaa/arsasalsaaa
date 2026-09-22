@@ -6,10 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A970FF&center=true&vCenter=true&width=600&lines=Mobile+App+Developer;Cybersecurity+Enthusiast;Cryptography+Learner;ITERA+Informatics+Student" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=arsasalsaaa.arsasalsaaa) 
-</p>
-
 ---
 
 ### Project Status
@@ -48,14 +44,6 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arsasalsaaa&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arsasalsaaa&theme=github_dark" />
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/arsasalsaaa/arsasalsaaa/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
