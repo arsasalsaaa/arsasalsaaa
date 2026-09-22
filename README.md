@@ -1,5 +1,4 @@
 ### Hi there! I'm Arsa Salsabila 
-<img src="https://komarev.com/ghprofile/?username=arsasalsaaa&color=blueviolet&style=flat-square" alt="Profile Views" />
 
 I am an Informatics Engineering student at **Institut Teknologi Sumatera (ITERA)** with a strong passion for mobile app development, cybersecurity, and cryptography.
 
@@ -9,7 +8,7 @@ I am an Informatics Engineering student at **Institut Teknologi Sumatera (ITERA)
 
 | Project | Description | Progress | Status |
 |---|---|---|---|
-| [Nama Project 1] | Aplikasi mobile ... | 70% | 🟢 In Progress |
+| [Nama Project 1] | Aplikasi mobile ... | 20% | 🟢 In Progress |
 | [Nama Project 2] | Riset kriptografi ... | 30% | 🟢 In Progress |
 | [Nama Project 3] | Tools cybersecurity ... | 100% | ✅ Done |
 
