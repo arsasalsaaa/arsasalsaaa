@@ -6,11 +6,11 @@ I am an Informatics Engineering student at **Institut Teknologi Sumatera (ITERA)
 
 ### Project Status
 
-| Project | Description | Progress | Status |
-|---|---|---|---|
-| [Nama Project 1] | Aplikasi mobile ... | 20% | 🟢 In Progress |
-| [Nama Project 2] | Riset kriptografi ... | 30% | 🟢 In Progress |
-| [Nama Project 3] | Tools cybersecurity ... | 100% | ✅ Done |
+| Description | Progress | Status |
+|---|---|---|
+| Aplikasi mobile ... | 20% | 🟢 In Progress |
+| Riset kriptografi ... | 30% | 🟢 In Progress |
+| Tools cybersecurity (CySim) | 100% | ✅ Done |
 
 ---
 
