@@ -1,5 +1,5 @@
 ### Hi there! I'm Arsa Salsabila 
-<img src="https://komarev.com/ghprofile/?username=GANTI_USERNAME_GITHUB&color=blueviolet&style=flat-square" alt="Profile Views" />
+<img src="https://komarev.com/ghprofile/?username=arsasalsaaa&color=blueviolet&style=flat-square" alt="Profile Views" />
 
 I am an Informatics Engineering student at **Institut Teknologi Sumatera (ITERA)** with a strong passion for mobile app development, cybersecurity, and cryptography.
 
@@ -32,9 +32,9 @@ I am an Informatics Engineering student at **Institut Teknologi Sumatera (ITERA)
 
 ### 📊 GitHub Stats
 
-![Arsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=GANTI_USERNAME_GITHUB&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GANTI_USERNAME_GITHUB&layout=compact&theme=radical)
-![Streak](https://streak-stats.demolab.com/?user=GANTI_USERNAME_GITHUB&theme=radical)
+![Arsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=arsasalsaaa&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arsasalsaaa&layout=compact&theme=radical)
+![Streak](https://streak-stats.demolab.com/?user=arsasalsaaa&theme=radical)
 
 ---
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
